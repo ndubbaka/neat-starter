@@ -3,7 +3,7 @@
 Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind CSS
 
 ## Live Demo
-
+ 
 [https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
 
 ### Technologies used:
